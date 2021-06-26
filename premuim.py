@@ -455,7 +455,7 @@ def choice2_menu():
 	p.map(main, id)
 	print "\033[1;97m----------------------------------------------------------------------------------------"
 	hamza('!+] Process Has Been Completed.')
-	hamza('\033[1;97m[+]Checkpoint ID's  Has Been Saved ')
+	hamza('\033[1;97mCheckpoint IDS  Has Been Saved ')
 	xx = str(len(oks))
 	xxx = str(len(checkpoint))
 	print ("[+] Total \033[1;32mOK/\033[1;97mCP : \033[1;32m"+str(len(oks))+"/\033[1;97m"+str(len(checkpoint)))
